@@ -1,0 +1,17 @@
+{
+  "name": "meteor-react-seed",
+  "version": "1.0.0",
+  "description": "",
+  "dependencies": {
+	  "upper-case": "*"
+  },
+  "devDependencies": {
+    "webpack": "^1.9.10"
+  },
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack --watch"
+  },
+  "author": "",
+  "license": ""
+}
