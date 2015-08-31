@@ -1,1 +1,3 @@
-# meteor-react-seed
+# meteor react seed
+
+

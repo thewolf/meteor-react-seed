@@ -11,7 +11,7 @@ App = React.createClass({
     render: function() {
         return (
             <div className="ui container">
-                <h3>Hello reactjs</h3>
+                <h3>Hello reactjs...</h3>
             </div>
         );
     }
