@@ -5,8 +5,10 @@
 # but you can also edit it by hand.
 
 meteor-platform
-autopublish
 insecure
 react
 semantic:ui-css
 less
+kadira:flow-router
+kadira:react-layout
+zimme:active-route
